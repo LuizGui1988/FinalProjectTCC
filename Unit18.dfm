@@ -1,0 +1,164 @@
+object Form18: TForm18
+  Left = 0
+  Top = 0
+  Caption = 'Form18'
+  ClientHeight = 700
+  ClientWidth = 640
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblTitulo: TLabel
+    Left = 252
+    Top = 29
+    Width = 153
+    Height = 24
+    Caption = 'Buscar Receita'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object lblNome: TLabel
+    Left = 48
+    Top = 117
+    Width = 39
+    Height = 17
+    Caption = 'Nome'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object lblCpf: TLabel
+    Left = 48
+    Top = 181
+    Width = 22
+    Height = 17
+    Caption = 'RG'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label1: TLabel
+    Left = 48
+    Top = 376
+    Width = 31
+    Height = 17
+    Caption = 'Data'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object GroupBox2: TGroupBox
+    Left = 24
+    Top = 336
+    Width = 593
+    Height = 348
+    Caption = 'Receita'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 6
+  end
+  object GroupBox1: TGroupBox
+    Left = 24
+    Top = 80
+    Width = 593
+    Height = 221
+    Caption = 'Informa'#231#245'es do Paciente'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+  end
+  object DBEdit1: TDBEdit
+    Left = 48
+    Top = 140
+    Width = 513
+    Height = 25
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object DBEdit2: TDBEdit
+    Left = 48
+    Top = 204
+    Width = 161
+    Height = 25
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+  object DBMemo1: TDBMemo
+    Left = 48
+    Top = 442
+    Width = 545
+    Height = 223
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 3
+  end
+  object BitBtn1: TBitBtn
+    Left = 48
+    Top = 256
+    Width = 75
+    Height = 25
+    Caption = 'Buscar'
+    TabOrder = 4
+  end
+  object BitBtn2: TBitBtn
+    Left = 134
+    Top = 256
+    Width = 75
+    Height = 25
+    Caption = 'Cancelar'
+    TabOrder = 5
+  end
+  object DBEdit3: TDBEdit
+    Left = 48
+    Top = 399
+    Width = 121
+    Height = 25
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 7
+  end
+end

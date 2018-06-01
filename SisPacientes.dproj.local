@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/07/16 20:21:40.000.976,=C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/07/17 22:25:45.000.603,=C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/07/17 22:33:02.000.241,=C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2014/07/17 23:02:54.000.336,C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit1.pas=F:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2014/07/17 23:02:54.000.336,C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit1.dfm=F:\ProjetoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2014/07/17 23:02:55.000.514,C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit2.dfm=F:\ProjetoDelphi\Unit2.dfm</Transaction>
+    <Transaction>2014/07/17 23:02:55.000.514,C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Unit2.pas=F:\ProjetoDelphi\Unit2.pas</Transaction>
+    <Transaction>2014/07/17 23:02:56.000.484,C:\Users\Guilherme.GUILHERMEPC\Documents\RAD Studio\Projects\Project1.dproj=F:\ProjetoDelphi\Project1.dproj</Transaction>
+    <Transaction>2014/07/19 22:45:25.000.257,=F:\ProjetoDelphi\Unit3.pas</Transaction>
+    <Transaction>2014/07/21 20:15:43.000.753,=F:\ProjetoDelphi\Unit4.pas</Transaction>
+    <Transaction>2014/07/29 19:16:05.000.080,=F:\ProjetoDelphi\Unit5.pas</Transaction>
+    <Transaction>2014/07/31 13:11:06.000.790,=F:\ProjetoDelphi\Unit6.pas</Transaction>
+    <Transaction>2014/07/31 16:35:32.000.763,=F:\ProjetoDelphi\Unit7.pas</Transaction>
+    <Transaction>2014/07/31 17:25:20.000.632,=F:\ProjetoDelphi\Unit8.pas</Transaction>
+    <Transaction>2014/08/01 19:05:41.000.715,=F:\ProjetoDelphi\Unit9.pas</Transaction>
+    <Transaction>2014/08/06 13:05:51.000.145,=F:\ProjetoDelphi\Unit10.pas</Transaction>
+    <Transaction>2014/08/07 15:42:18.000.863,=F:\ProjetoDelphi\Unit11.pas</Transaction>
+    <Transaction>2014/08/08 20:46:59.000.831,=F:\ProjetoDelphi\Unit12.pas</Transaction>
+    <Transaction>2014/08/16 00:42:30.000.514,=F:\ProjetoDelphi\Unit13.pas</Transaction>
+    <Transaction>2014/08/16 18:30:17.000.336,=F:\ProjetoDelphi\Unit13.pas</Transaction>
+    <Transaction>2014/08/16 23:28:50.000.659,=F:\ProjetoDelphi\Unit14.pas</Transaction>
+    <Transaction>2014/08/21 01:11:10.000.240,=F:\ProjetoDelphi\Unit15.pas</Transaction>
+    <Transaction>2014/08/22 15:52:08.000.996,=F:\ProjetoDelphi\Unit16.pas</Transaction>
+    <Transaction>2014/08/23 00:27:36.000.884,=F:\ProjetoDelphi\Unit17.pas</Transaction>
+    <Transaction>2014/08/24 18:10:53.000.552,=F:\ProjetoDelphi\Unit18.pas</Transaction>
+    <Transaction>2014/08/24 18:24:34.000.688,F:\ProjetoDelphi\Unit18.pas=</Transaction>
+    <Transaction>2014/08/25 04:26:58.000.837,F:\ProjetoDelphi\Unit1.dfm=F:\ProjetoDelphi\CadastraP.dfm</Transaction>
+    <Transaction>2014/08/25 04:26:58.000.837,F:\ProjetoDelphi\Unit1.pas=F:\ProjetoDelphi\CadastraP.pas</Transaction>
+    <Transaction>2014/08/25 04:27:48.000.824,F:\ProjetoDelphi\Unit1.pas=F:\ProjetoDelphi\CadastraP.pas</Transaction>
+    <Transaction>2014/08/25 04:27:48.000.824,F:\ProjetoDelphi\Unit1.dfm=F:\ProjetoDelphi\CadastraP.dfm</Transaction>
+    <Transaction>2014/08/28 02:14:33.000.481,=F:\ProjetoDelphi\Unit19.pas</Transaction>
+    <Transaction>2014/08/29 09:48:14.000.306,=F:\ProjetoDelphi\Unit20.pas</Transaction>
+    <Transaction>2014/08/31 11:09:34.000.971,=F:\ProjetoDelphi\Unit21.pas</Transaction>
+    <Transaction>2014/09/03 08:05:55.000.308,F:\ProjetoDelphi\Project1.dproj=F:\ProjetoDelphi\SisPacientes.dproj</Transaction>
+    <Transaction>2014/09/09 17:27:22.000.155,=F:\ProjetoDelphi\Unit23.pas</Transaction>
+    <Transaction>2014/09/11 11:28:07.000.052,=F:\ProjetoDelphi\Unit22.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+    <File Path="Unit13.pas"/>
+    <File Path="Unit13.dfm"/>
+    <File Path="Unit14.pas"/>
+    <File Path="Unit14.dfm"/>
+    <File Path="Unit15.pas"/>
+    <File Path="Unit15.dfm"/>
+    <File Path="Unit16.pas"/>
+    <File Path="Unit16.dfm"/>
+    <File Path="Unit17.pas"/>
+    <File Path="Unit17.dfm"/>
+    <File Path="Unit19.pas"/>
+    <File Path="Unit19.dfm"/>
+    <File Path="Unit20.pas"/>
+    <File Path="Unit20.dfm"/>
+    <File Path="Unit21.pas"/>
+    <File Path="Unit21.dfm"/>
+    <File Path="Unit22.pas"/>
+    <File Path="Unit22.dfm"/>
+    <File Path="Unit23.pas"/>
+    <File Path="Unit23.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
